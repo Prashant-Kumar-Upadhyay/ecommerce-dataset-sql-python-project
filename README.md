@@ -31,7 +31,7 @@ To begin, download the dataset from the Kaggle link provided above.
 - The queries will help you perform various analyses on the dataset.
 
 ### 4. Running the Jupyter Notebook
-1. Open the `analysis.ipynb` file in a Jupyter Notebook environment.
+1. Open the `sql+python_ecommerce_project.ipynb` file in a Jupyter Notebook environment.
 2. The notebook will:
    - Load the dataset (or connect to the database if the data is stored there).
    - Execute SQL queries from the `queries.sql` file using Python (via libraries like `mysql-connector-python` or `sqlalchemy`).
